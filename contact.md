@@ -11,7 +11,7 @@ permalink: /contact/
   <!-- all your input fields here.... -->
   <div class="form-group">
     <label for="senderName">Your Name</label>
-    <input id="senderName" class="form-control" name="name" type="text" placeholder="Your Name" />
+    <input id="senderName" class="form-control" name="name" type="text" placeholder="Your full Name" />
   </div>
  
   <div class="form-group">
