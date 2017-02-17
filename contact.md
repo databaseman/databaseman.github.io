@@ -2,10 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
---- feature-img: "img/color.png"
+#feature-img: "img/color.png"
 ---
-<div class="container">
-  <form action="https://getsimpleform.com/messages?form_api_token=814cd8baca7412d1b50b6f689e9ce8b7" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=814cd8baca7412d1b50b6f689e9ce8b7" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission --> 
     <input type='hidden' name='redirect_to' value='https://databaseman.github.io/thank-you/' />
     <!-- all your input fields here.... -->
@@ -24,5 +23,4 @@ permalink: /contact/
       <textarea class="form-control" name="message" rows="8" placeholder="Type your message here"></textarea>
     </div>
     <button class="btn btn-default" type="submit">Send Message</button>
-  </form>
-</div>
+</form>
