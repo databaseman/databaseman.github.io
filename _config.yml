@@ -6,8 +6,8 @@ url: "http://databasedude.github.io" # the base hostname & protocol for your sit
 theme_settings:
   # Meta
   title: Minh Nguyen
-  avatar: dog.png
-  gravatar: # Email MD5 hash
+  avatar: 
+  gravatar: "cd39a8c99b5da3915ee409b68e4a65c0" 
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
