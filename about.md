@@ -2,8 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-bg: blue
-color: yellow
 #feature-img: "img/sample_feature_img_2.png"
 ---
 I am a certified Oracle Professional with more than 20 years of experiences in Information Technology; 
