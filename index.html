@@ -15,7 +15,7 @@ layout: default
     {% for project in site.portfolio limit:5 %}
         <li>
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}">
-          <p>{{ project.short-description }}</p>
+          <p>"{{ project.short-description }}"</p>
         </li>
     {% endfor %}
   </div>
