@@ -10,6 +10,6 @@ and a Programmer/Analyst for Oracle Applications and SAP.
 
 I have worked professionally with the following technologies/languages: PL/SQL, SQL, OCI, Dynamic SQL, ABAP/4, C, and COBOL.  
 
-Currently I am taking classes to pursuit a career as a Ruby on Rails Developer.  
+Currently I am taking classes to pursuit a career as a Developer.  
 
 
