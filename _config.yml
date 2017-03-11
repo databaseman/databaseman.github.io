@@ -67,13 +67,6 @@ collections:
 
 # BUILD SETTINGS
 markdown: kramdown
-Navigation:
-- title: Home
- url: /index.html
-- title: About
-url: http://xociety.co
- - title: Contact
-url: /contact
 
 sass:
   sass_dir: _sass
