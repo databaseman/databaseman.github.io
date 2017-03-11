@@ -3,7 +3,7 @@ layout: post
 title: bloc-jams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-produrl: "https://minh-bloc-jams.herokuapp.com"
+link: "https://minh-bloc-jams.herokuapp.com"
 short-description:  Digital music player like Spotify
 
 ---
