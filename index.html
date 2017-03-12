@@ -14,8 +14,6 @@ layout: default
     <h2>My Work</h2>
     {% for project in site.portfolio limit:5 %}
         <li>
-          <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}">
-          <a href="{{ project.title }}" >{{ project.title }}</a>
           <p>"{{ project.short-description }}"</p>
         </li>
     {% endfor %}
