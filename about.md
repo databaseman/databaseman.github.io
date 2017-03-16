@@ -12,6 +12,8 @@ I have worked professionally with the following technologies/languages: PL/SQL, 
 
 Currently I am taking classes to pursuit a career as a Software Developer.
 
+
+
 #### SKILL SET:  
 Ruby on Rails; JavaScript; HTML; CSS;  jQuery; SQL; PL/SQL; C; Perl, Cobol; Shell Scripts; SQLite; PostgreSQL; Oracle 8i, 9i, 10G,11G install, upgrade, performance tuning, backup and recovery; RAC; ASM; OEM 11G & 12C, Database Control; Data Guard; Oracle Replication; Materialized View; Partitioning; RMAN; Solaris, HP-UX, AIX, Linux; UC4
 
