@@ -12,8 +12,8 @@ layout: default
 
   <section class="work">
     <h2>Projects</h2>
-    <div class="container">
-      <ul class="list-group center">
+    <div class="container center">
+      <ul class="list-group">
         {% for project in site.portfolio limit:10 %}
           <div class="project-description">
             <li class="list-group-item"><a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a> {{ project.short-description }}</li>
