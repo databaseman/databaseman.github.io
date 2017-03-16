@@ -10,3 +10,6 @@ A digital music player like Spotify that we'll use to learn frontend web develop
 Technology:  HTML, CSS, JavaScript, JQuery.
 
 Currently running [here](https://minh-bloc-jams.herokuapp.com)
+
+
+An Angular version of this program is currently running [here](https://minh-bloc-jams-angular.herokuapp.com)
