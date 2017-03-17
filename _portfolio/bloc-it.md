@@ -7,6 +7,6 @@ short-description: Reddit replica.
 ---
 A Reddit replica to teach the fundamentals of web development and Rails. 
 
-Technology:  HTML, CSS, Ruby on Rails
+Technology:  HTML, CSS, Ruby on Rails, SQLite, PostgreSQL
 
-Currently running [here](https://minh-blocit.herokuapp.com/)
+Currently running [here](https://minh-blocit.herokuapp.com/) with PostgreSQL

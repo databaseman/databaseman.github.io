@@ -8,11 +8,11 @@ theme_settings:
   title: Minh Nguyen
   avatar: 
   gravatar: "cd39a8c99b5da3915ee409b68e4a65c0" 
-  description: "Minh Nguyen Software Developer Programmer Ruby on Rails Javascripts Oracle DBA " # used by search engines
+  description: "Minh Nguyen, Full Stack Developer, Software Developer, Programmer, Ruby on Rails, Javascripts, SQL, Oracle DBA, HTML" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Software Developer</h1>
+     <h1>Full Stack Developer</h1>
   header_text_feature_image:
   footer_text: >
   # Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
