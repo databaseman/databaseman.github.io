@@ -3,7 +3,7 @@ layout: post
 title: bloc-jams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: Digital music player like Spotify
+short-description: Spotify like digital music player
 ---
 A Spotify like digital music player. 
 
