@@ -15,7 +15,7 @@ layout: default
     <h2>Projects</h2>
     <div class="row">
         {% for project in site.portfolio limit:10 %}
-          <div class="col-sm-4">
+          <div class="col-sm-6">
             <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a> {{ project.short-description }}
           </div>
         {% endfor %}
