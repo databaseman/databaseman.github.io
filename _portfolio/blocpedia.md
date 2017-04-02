@@ -7,7 +7,8 @@ short-description: Wiki replica.
 ---
 A Wiki replica to teach the fundamentals of web development and Rails. 
 
-Technology: HTML, CSS, Ruby on Rails, Bootstrap, Sendgrid mail server, ActionMailer client, Figaro to setup environment variables; 
-Stripe for handling credit cards, Pundit for authorization, SQLite, PostgreSQL
+Technology:  HTML, CSS, Ruby on Rails, Bootstrap, Sendgrid mail server, ActionMailer client, Figaro to setup environment variables; 
+Stripe for handling credit cards, Pundit for authorization, SQLite, PostgreSQL, Redcarpet Markdown for text entries, and 
+Faker for generating test data.
 
 Currently running [here](https://minh-blocpedia.herokuapp.com/) with PostgreSQL
