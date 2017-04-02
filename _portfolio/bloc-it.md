@@ -7,6 +7,6 @@ short-description: Reddit replica.
 ---
 A Reddit replica to teach the fundamentals of web development and Rails. 
 
-Technology:  HTML, CSS, Ruby on Rails, Bootstrap, Sendgrid mail server, ActionMailer client, Figaro to setup environment variables, SQLite, PostgreSQL
+**Technology**:  HTML, CSS, Ruby on Rails, Bootstrap, Sendgrid mail server, ActionMailer client, Figaro to setup environment variables, SQLite, PostgreSQL
 
 Currently running [here](https://minh-blocit.herokuapp.com/) with PostgreSQL
