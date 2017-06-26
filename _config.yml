@@ -38,6 +38,7 @@ theme_settings:
   twitter: 
   wordpress:
   youtube:
+  codewars: "https://www.codewars.com/users/databaseman/badges/micro"
 
   # Scripts
   google_analytics: "UA-92207790-1"
