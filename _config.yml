@@ -28,7 +28,8 @@ theme_settings:
   github: "databaseman"
   google_plus:
   instagram: 
-  #linkedin:  "https://www.linkedin.com/in/minhdatabasedude"
+  linkedin:  "https://www.linkedin.com/in/minhdatabasedude"
+  codewars: "https://www.codewars.com/users/databaseman/badges/micro"
   pinterest:
   reddit:
   soundcloud:
@@ -38,8 +39,7 @@ theme_settings:
   twitter: 
   wordpress:
   youtube:
-  codewars: "https://www.codewars.com/users/databaseman/badges/micro"
-
+  
   # Scripts
   google_analytics: "UA-92207790-1"
   disqus_shortname:
